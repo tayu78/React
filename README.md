@@ -10,6 +10,6 @@
 `<Route path="*" element={<Error />}</Route>>`のように、pathにワイルドカードを指定する。
 
 
-## ref
+## reference
 - [youtube](https://www.youtube.com/watch?v=59IXY5IDrBA)
 
